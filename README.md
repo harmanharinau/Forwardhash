@@ -1,10 +1,10 @@
 ## CHANNEL AUTO FORWARD
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/greymatters_bots_discussion)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/cyniteoofficial)
 
 ## How to Deploy? 🤔
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GreyMatter658/Auto-Forward-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cynitebots/Forwardhash)
 - 👆 Press the deploy button.
 
 - Go to  [my.telegram.org](https://my.telegram.org/)
@@ -16,7 +16,7 @@
 - Get the your channel id and paste in below in the format -10023352648:-100655379
      - In the about format -10023352648 is the channel from which you need to forward 
      - and -100655379 is the channel to which you wanted to forward 
-[<p align="center"><img src="https://telegra.ph/file/2130bae31fa168ae57224.jpg" width="300">](https://telegram.dog/Ns_bot_updates)
+[<p align="center"><img src="https://telegra.ph/file/2130bae31fa168ae57224.jpg" width="300">](https://telegram.dog/cynitebots)
 
 - Get the Bot Father Token from [@BotFather](https://telegram.dog/botfather)
 
@@ -26,8 +26,8 @@
 
 
 ## How to reach Me ?
-<a href="https://telegram.dog/GreyMatter_bots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/greymatters_bots_discussion"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/cynitebots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/cyniteofficial"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
@@ -48,10 +48,3 @@ about - to know about me
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ns-AnoNymouS&theme=blue-green)
 [![Anonymous's github stats](https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Thanks and credits
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://t.me/greymatters_about/13)
-
-- [Rajkumar-fr](https://github.com/rajkumar-fr)
-- [Dan](https://telegram.dog/haskell) for his pyrogram docs
-- [MaheshMalekar](https://telegram.dog/MaheshMalekar) ❤

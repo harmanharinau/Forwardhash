@@ -6,10 +6,10 @@
     "best",
     "forward"
   ],
-  "logo": "https://telegra.ph/file/5b5dd216d70b29c80e25e.jpg",
-  "success_url": "https://telegram.dog/GreyMatter_bots",
-  "website": "https://github.com/greymatter658/auto-forward-bot",
-  "repository": "https://github.com/GreyMatter658/Auto-Forward-Bot",
+  "logo": "https://telegra.ph/file/904a77606fa4b52c3d285.jpg",
+  "success_url": "https://telegram.dog/cynitebots",
+  "website": "https://github.com/cynitebots/Forwardhash",
+  "repository": "https://github.com/cynitebots/Forwardhash",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
